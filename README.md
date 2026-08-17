@@ -24,7 +24,7 @@ The script reads **Name, Email, Due Amount and Due Date** from `Sheet1` and send
 
 **Add your screenshot here:**
 
-![Google Sheet](Screenshot 2026-08-17 223836.png)
+![Google Sheet]([Screenshot 2026-08-17 221831.png](https://github.com/Amang125/Google-Sheets-Payment-Reminder-System/blob/main/Screenshot%202026-08-17%20221926.png))
 
 ## 💻 Apps Script
 
