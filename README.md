@@ -1,1 +1,53 @@
-# Google-Sheets-Payment-Reminder-System
+# Google Sheets Payment Reminder System
+
+This project sends bulk payment reminder emails using Google Sheets and Google Apps Script.
+
+---
+
+## 🚀 Features
+
+- One-click email sending
+- Gmail integration using MailApp
+- Dynamic data from Sheet1
+- Automated message formatting
+- Simple and efficient automation
+
+---
+
+## 📊 Sheet Format
+
+| Sr.No | Name | Email | Due Amount | Due Date |
+|-------|------|-------|------------|----------|
+
+---
+
+## 📸 Screenshots
+
+### 📊 Google Sheet
+![Sheet View](sheet-view.png)
+
+---
+
+### 💻 Apps Script Code
+![Script Code](script-code.png)
+
+---
+
+### 📧 Email Output
+![Email Output](email-output.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- Google Sheets
+- Google Apps Script
+- Gmail (MailApp API)
+
+---
+
+## Author
+Aman Gole
+
+🔗 Connect With Me
+https://www.linkedin.com/in/aman-gole-it125
